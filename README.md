@@ -1,6 +1,6 @@
 # quiz
 
-A new Flutter project.
+A new Flutter project from Udemy short course.
 
 ## Getting Started
 
